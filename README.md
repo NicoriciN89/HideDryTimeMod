@@ -45,4 +45,5 @@ Or use helper script:
 - Any non-vanilla preset applies one unified time to all supported dryable evolve items.
 
 ## License
-Choose and add your preferred license (for example MIT) before public release.
+This project is licensed under the MIT License.
+See the LICENSE file for details.

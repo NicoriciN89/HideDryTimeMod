@@ -1,0 +1,32 @@
+{
+  "English": {
+    "HD.SECTION": "Animal hide drying",
+    "HD.PRESET": "Drying time preset",
+    "HD.DESC_PRESET": "Quick presets or Custom to use the slider below.",
+    "HD.PRESET_VANILLA": "Vanilla (per hide type)",
+    "HD.PRESET_6H": "6 hours",
+    "HD.PRESET_12H": "12 hours",
+    "HD.PRESET_24H": "24 hours (1 day)",
+    "HD.PRESET_48H": "48 hours (2 days)",
+    "HD.PRESET_72H": "72 hours (3 days)",
+    "HD.PRESET_168H": "168 hours (7 days)",
+    "HD.PRESET_CUSTOM": "Custom (slider)",
+    "HD.DRY_HOURS": "Custom drying time (in-game hours)",
+    "HD.DESC_DRY_HOURS": "Only used when preset is Custom. One in-game day = 24 hours. Range: 1–168."
+  },
+  "Russian": {
+    "HD.SECTION": "Сушка шкур и материалов",
+    "HD.PRESET": "Пресет времени сушки",
+    "HD.DESC_PRESET": "Быстрый выбор или «Свой» — тогда используется ползунок ниже.",
+    "HD.PRESET_VANILLA": "Ванила (у каждой шкуры своё)",
+    "HD.PRESET_6H": "6 часов",
+    "HD.PRESET_12H": "12 часов",
+    "HD.PRESET_24H": "24 часа (1 сутки)",
+    "HD.PRESET_48H": "48 часов (2 суток)",
+    "HD.PRESET_72H": "72 часа (3 суток)",
+    "HD.PRESET_168H": "168 часов (7 суток)",
+    "HD.PRESET_CUSTOM": "Свой (ползунок)",
+    "HD.DRY_HOURS": "Своё время сушки (игровые часы)",
+    "HD.DESC_DRY_HOURS": "Только при пресете «Свой». 1 игровые сутки = 24 часа. Диапазон: 1–168."
+  }
+}
